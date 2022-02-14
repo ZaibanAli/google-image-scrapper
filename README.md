@@ -2,7 +2,7 @@
 Simple google-image-scrapper using selenium and google webdriver.
 
 ## Setup and usage
-```git clone``` \
+```git clone https://github.com/ZaibanAli/google-image-scrapper.git``` \
 ```cd google-image-scrapper```
 ```virtualenv --python python3.9 venv```\
 ```source venv/bin/activate```\
